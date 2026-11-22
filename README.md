@@ -42,13 +42,3 @@ npx skills@latest add ~/Workspaces/skills
    - sampling gaps.
 3. The agent presents a prioritized **Markdown report** and proposed strategy, then waits for your **explicit approval**.
 4. Once approved, the agent implements wide events idiomatically for your stack and verifies the changes with tests.
-
-## Repository Structure
-
-```text
-skills/
-├── README.md
-└── improve-logging/
-    ├── SKILL.md          # Skill instructions and workflow
-    └── WIDE-EVENTS.md    # Reference (wide-event anatomy, OTel, tail sampling, redaction)
-```

@@ -1,5 +1,7 @@
 # Skills
 
+[![skills.sh](https://skills.sh/b/Sov3rain/skills)](https://skills.sh/Sov3rain/skills)
+
 A collection of reusable skills for coding agents (Antigravity, Claude Code, Codex, etc.).
 
 ## Available Skills

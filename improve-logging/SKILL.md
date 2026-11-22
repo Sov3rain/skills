@@ -1,5 +1,5 @@
 ---
-name: improve-logging
+name: Improve Logging
 description: Audit a codebase for missing or poor logging, then refactor it toward wide events, high-cardinality context, and tail sampling.
 disable-model-invocation: true
 ---
